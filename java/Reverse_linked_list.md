@@ -3,7 +3,7 @@ id: reverse-linked-list
 sidebar_position: 1 
 title: Reverse Linked List 
 sidebar_label: Reverse Linked List 
-description: "This document explains the reversing a linked list in java." 
+description: "This document explains reversing a linked list in java." 
 tags: [java, data structures, linked list]
 ---
 
